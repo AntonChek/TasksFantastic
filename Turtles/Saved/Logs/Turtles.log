@@ -1483,3 +1483,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.06.12-05.26.16:544][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2022.06.12-05.26.16:657][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.06.12-05.26.16:753][  0]LogSlate: Took 0.000912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.12-06.50.10:788][654]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{da4de93f-a052-45f3-87e3-f04451ac7bd5}.
+[2022.06.12-06.50.10:789][654]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.12-06.50.10:792][654]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.12-06.50.10:792][654]LogAudioMixer: Display: 1: FrontRight
