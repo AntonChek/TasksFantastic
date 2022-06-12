@@ -1,0 +1,1459 @@
+﻿Log file open, 12/04/21 12:56:30
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Turtles
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.664369
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Engine.ini]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Engine.ini]
+[2021.12.04-03.56.32:465][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Engine.ini]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Engine.ini]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.04-03.56.32:465][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Engine.ini]
+[2021.12.04-03.56.32:465][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Engine.ini]
+[2021.12.04-03.56.32:471][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.04-03.56.32:472][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:472][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.04-03.56.32:473][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.04-03.56.32:473][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.04-03.56.32:473][  0]LogHAL: Display: Platform has ~ 6 GB [6304174080 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.04-03.56.32:473][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.04-03.56.32:473][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.04-03.56.32:473][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.04-03.56.32:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.04-03.56.32:475][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.12.04-03.56.32:475][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:475][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.04-03.56.32:475][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.04-03.56.32:475][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-03.56.32:475][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.04-03.56.32:475][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.04-03.56.32:475][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.04-03.56.32:475][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.04-03.56.32:476][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.04-03.56.32:476][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.04-03.56.32:476][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.04-03.56.32:476][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Engine.ini]
+[2021.12.04-03.56.32:476][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Config/Windows/Editor.ini]
+[2021.12.04-03.56.32:476][  0]LogInit: Computer: LAPTOP-U73B9QT1
+[2021.12.04-03.56.32:477][  0]LogInit: User: user
+[2021.12.04-03.56.32:477][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.12.04-03.56.32:477][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.04-03.56.32:477][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2021.12.04-03.56.32:477][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.04-03.56.32:477][  0]LogMemory: Process Physical Memory: 136.04 MB used, 136.04 MB peak
+[2021.12.04-03.56.32:477][  0]LogMemory: Process Virtual Memory: 118.01 MB used, 118.01 MB peak
+[2021.12.04-03.56.32:477][  0]LogMemory: Physical Memory: 4198.77 MB used,  1813.36 MB free, 6012.13 MB total
+[2021.12.04-03.56.32:477][  0]LogMemory: Virtual Memory: 134214440.00 MB used,  3288.91 MB free, 134217728.00 MB total
+[2021.12.04-03.56.32:487][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.04-03.56.32:527][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.04-03.56.32:528][  0]LogInit: Using OS detected language (ru-RU).
+[2021.12.04-03.56.32:528][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.12.04-03.56.32:532][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.12.04-03.56.32:532][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.12.04-03.56.32:532][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.12.04-03.56.32:532][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.12.04-03.56.32:532][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.12.04-03.56.32:533][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.12.04-03.56.32:533][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.12.04-03.56.32:533][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.12.04-03.56.32:534][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.04-03.56.32:545][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.04-03.56.32:558][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.04-03.56.32:558][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.04-03.56.32:788][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.04-03.56.32:789][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.04-03.56.32:789][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.04-03.56.32:789][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.04-03.56.32:834][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2021.12.04-03.56.32:834][  0]LogD3D11RHI:       4064/0/3006 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.04-03.56.32:849][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2021.12.04-03.56.32:849][  0]LogD3D11RHI:       128/0/3006 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.12.04-03.56.32:854][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.04-03.56.32:854][  0]LogD3D11RHI:       0/0/3006 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.04-03.56.32:854][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.04-03.56.33:011][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.04-03.56.33:011][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2021.12.04-03.56.33:011][  0]LogWindows: EnumDisplayDevices:
+[2021.12.04-03.56.33:011][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2021.12.04-03.56.33:012][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2021.12.04-03.56.33:012][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2021.12.04-03.56.33:012][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.12.04-03.56.33:012][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2021.12.04-03.56.33:012][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.12.04-03.56.33:012][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.12.04-03.56.33:012][  0]LogRHI: Texture pool is 2845 MB (70% of 4064 MB)
+[2021.12.04-03.56.33:035][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.12.04-03.56.33:035][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.04-03.56.33:061][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.12.04-03.56.33:063][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.04-03.56.33:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.04-03.56.33:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.04-03.56.33:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.04-03.56.33:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.04-03.56.33:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.04-03.56.33:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.04-03.56.33:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.04-03.56.33:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.04-03.56.33:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.04-03.56.33:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.04-03.56.33:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.04-03.56.33:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.04-03.56.33:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.04-03.56.33:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.04-03.56.34:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.04-03.56.34:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.04-03.56.34:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.04-03.56.34:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.04-03.56.34:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.04-03.56.34:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.04-03.56.34:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.04-03.56.34:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.04-03.56.34:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.04-03.56.34:100][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.04-03.56.34:110][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.04-03.56.34:175][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.04-03.56.34:176][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Intermediate/Shaders/WorkingDirectory/400104/).
+[2021.12.04-03.56.34:176][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/BC19D03648B9A573BE7B88AC4FA2C7BF/'.
+[2021.12.04-03.56.34:176][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.04-03.56.34:176][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.04-03.56.35:172][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.04-03.56.35:244][  0]LogDerivedDataCache: Loaded boot cache 0.07s 86MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.04-03.56.35:287][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.12.04-03.56.35:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.04-03.56.35:312][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.04-03.56.35:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.04-03.56.35:312][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.04-03.56.35:325][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.04-03.56.35:326][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.04-03.56.35:326][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.04-03.56.35:393][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2021.12.04-03.56.35:393][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=186.74MBs, RandomWriteSpeed=15.02MBs. Assigned SpeedClass 'Local'
+[2021.12.04-03.56.35:394][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.04-03.56.35:395][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.04-03.56.35:395][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.04-03.56.35:462][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.04-03.56.35:462][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.04-03.56.35:498][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2021.12.04-03.56.35:856][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.04-03.56.35:856][  0]LogInit: Active device profile: [0000017C44266300][0000017C41A41C40 49] Windows
+[2021.12.04-03.56.35:856][  0]LogInit: Profiles: [0000017C44266300][0000017C41A41C40 49] Windows, [0000017C44222500][0000017C41A44100 49] WindowsNoEditor, [0000017C44265600][0000017C41A48280 49] WindowsServer, [0000017C44221700][0000017C41A4C400 49] WindowsClient, [0000017C44267600][0000017C218EC580 49] IOS, [0000017C44222800][0000017C218F0700 49] iPadAir, [0000017C44265500][0000017C218F4880 49] iPadAir2, [0000017C441B9E00][0000017C218FCB40 49] IPadPro, [0000017C441B9F00][0000017C218F8B80 49] iPadAir3, [0000017C44223F00][0000017C21900D00 49] iPadAir4, [0000017C441BB600][0000017C21904E80 49] iPadMini2, [0000017C44222B00][0000017C282ED000 49] iPadMini3, [0000017C441B9700][0000017C282F1180 49] iPadMini4, [0000017C44223200][0000017C282F5300 49] iPadMini5, [0000017C441E1700][0000017C282FD5C0 49] iPhone6, [0000017C441E1800][0000017C282F9600 49] iPodTouch6, [0000017C44265100][0000017C39D1B880 49] iPhone7, [0000017C44266B00][0000017C283018C0 49] iPodTouch7, [0000017C441E2400][0000017C28305A00 49] iPhone5S, [0000017C44264600][0000017C28309B40 49] iPhone6Plus, [0000017C441E2E00][0000017C28311CC0 49] iPhone6S, [0000017C44265A00][0000017C28314180 49] iPhone6SPlus, [0000017C441E1400][0000017C28318300 49] iPhone7Plus, [0000017C44265700][0000017C2831C480 49] iPhoneSE, [0000017C441E1200][0000017C28320600 49] iPhone8, [0000017C44264B00][0000017C28324780 49] iPhone8Plus, [0000017C44220F00][0000017C28328900 49] iPhoneX, [0000017C441E2100][0000017C2832CA80 49] iPhoneXS, [0000017C44220C00][0000017C28330C00 49] iPhoneXSMax, [0000017C441E2500][0000017C28334D80 49] iPhoneXR, [0000017C44221100][0000017C28338F00 49] iPhone11, [0000017C441E1F00][0000017C42D85080 49] iPhone11Pro, [0000017C44221B00][0000017C42D89200 49] iPhone11ProMax, [0000017C441E0400][0000017C42D8D380 49] iPhoneSE2, [0000017C44223300][0000017C42D91500 49] iPhone12Mini, [0000017C441E3600][0000017C42D95680 49] iPhone12, [0000017C44221400][0000017C42D99800 49] iPhone12Pro, [0000017C441E2300][0000017C2830D940 49] iPhone12ProMax, [0000017C44221500][0000017C42D9DA80 49] iPadPro105, [0000017C44267200][0000017C42DA1BC0 49] iPadPro129, [0000017C44220B00][0000017C42DA5D00 49] iPadPro97, [0000017C44267400][0000017C42DAC1C0 49] iPadPro2_129, [0000017C44222000][0000017C42DB0340 49] iPad5, [0000017C44266E00][0000017C42DB44C0 49] iPad6, [0000017C44220300][0000017C42DB8640 49] iPad7, [0000017C44264400][0000017C42DBC7C0 49] iPad8, [0000017C44222E00][0000017C42DC0940 49] iPadPro11, [0000017C44264500][0000017C42DC4AC0 49] iPadPro2_11, [0000017C44223500][0000017C42DC8C40 49] iPadPro3_129, [0000017C44264200][0000017C42DCCDC0 49] iPadPro4_129, [0000017C44223D00][0000017C42DD0F40 49] AppleTV, [0000017C44265B00][0000017C42DD50C0 49] AppleTV4K, [0000017C44221A00][0000017C42DD9240 49] TVOS, [0000017C44265900][0000017C42DDD3C0 49] Mac, [0000017C44220D00][0000017C42DE1540 49] MacClient, [0000017C44266500][0000017C42DE56C0 49] MacNoEditor, [0000017C44221900][0000017C42DE9840 49] MacServer, [0000017C44267100][0000017C42DA9980 49] Linux, [0000017C44223000][0000017C42DEDAC0 49] LinuxAArch64, [0000017C44266A00][0000017C42DF1C00 49] LinuxNoEditor, [0000017C44222900][0000017C42DF5D40 49] LinuxAArch64NoEditor, [0000017C44266700][0000017C42DFC200 49] LinuxClient, [0000017C44221E00][0000017C42E00380 49] LinuxAArch64Client, [0000017C44264F00][0000017C42E04500 49] LinuxServer, [0000017C44222300][0000017C42E08680 49] LinuxAArch64Server, [0000017C44264900][0000017C42E0C800 49] Android, [0000017C44220E00][0000017C42E10980 49] Android_Low, [0000017C44266C00][0000017C42E14B00 49] Android_Mid, [0000017C44223400][0000017C42E18C80 49] Android_High, [0000017C44264100][0000017C42E1CE00 49] Android_Default, [0000017C44221C00][0000017C42E20F80 49] Android_Adreno4xx, [0000017C44266900][0000017C42E25100 49] Android_Adreno5xx_Low, [0000017C44223700][0000017C42E29280 49] Android_Adreno5xx, [0000017C44264C00][0000017C42E2D400 49] Android_Adreno6xx, [0000017C44220600][0000017C42E31580 49] Android_Adreno6xx_Vulkan, [0000017C44265200][0000017C42E35700 49] Android_Mali_T6xx, [0000017C441BA700][0000017C42E39880 49] Android_Mali_T7xx, [0000017C441E2A00][0000017C42E3DA00 49] Android_Mali_T8xx, [0000017C441B8600][0000017C42DF9B40 49] Android_Mali_G71, [0000017C441E1900][0000017C42E41C80 49] Android_Mali_G72, [0000017C441B9400][0000017C42E44100 49] Android_Mali_G72_Vulkan, [0000017C441E3F00][0000017C42E4C280 49] Android_Mali_G76, [0000017C441B8E00][0000017C42E50400 49] Android_Mali_G76_Vulkan, [0000017C441E1A00][0000017C42E54580 49] Android_Mali_G77, [0000017C441B8400][0000017C42E58700 49] Android_Mali_G77_Vulkan, [0000017C441E1300][0000017C42E5C880 49] Android_Vulkan_SM5, [0000017C441BA400][0000017C39B6AA00 49] Android_PowerVR_G6xxx, [0000017C441E0700][0000017C39B6EB80 49] Android_PowerVR_GT7xxx, [0000017C441B8100][0000017C39B72D00 49] Android_PowerVR_GE8xxx, [0000017C441E3500][0000017C39B76E80 49] Android_PowerVR_GM9xxx, [0000017C441BB000][0000017C39B7B000 49] Android_PowerVR_GM9xxx_Vulkan, [0000017C441E3E00][0000017C39B7F180 49] Android_TegraK1, [0000017C441BA300][0000017C39B83300 49] Android_Unknown_Vulkan, [0000017C441E1E00][0000017C39B87480 49] Lumin, [0000017C441BA100][0000017C39B8B600 49] Lumin_Desktop, [0000017C441E2F00][0000017C39B8F780 49] HoloLens, 
+[2021.12.04-03.56.36:012][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.04-03.56.36:012][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.04-03.56.36:012][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.04-03.56.36:012][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.04-03.56.36:012][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.04-03.56.36:039][  0]LogNetVersion: Turtles 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3315588872)
+[2021.12.04-03.56.36:758][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.04-03.56.37:411][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.652619 seconds
+[2021.12.04-03.56.37:417][  0]LogUObjectArray: 17492 objects as part of root set at end of initial load.
+[2021.12.04-03.56.37:417][  0]LogUObjectAllocator: 4476304 out of 0 bytes used by permanent object pool.
+[2021.12.04-03.56.37:417][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.04-03.56.38:041][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.04-03.56.38:046][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.04-03.56.38:217][  0]SourceControl: Source control is disabled
+[2021.12.04-03.56.38:218][  0]SourceControl: Source control is disabled
+[2021.12.04-03.56.38:280][  0]SourceControl: Source control is disabled
+[2021.12.04-03.56.38:285][  0]SourceControl: Source control is disabled
+[2021.12.04-03.56.38:294][  0]SourceControl: Source control is disabled
+[2021.12.04-03.56.38:297][  0]LogUProjectInfo: Found projects:
+[2021.12.04-03.56.38:699][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.04-03.56.38:726][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.04-03.56.38:726][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.04-03.56.38:817][  0]LogCollectionManager: Loaded 0 collections in 0.003571 seconds
+[2021.12.04-03.56.38:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Collections/' took 0.00s
+[2021.12.04-03.56.38:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Developers/user/Collections/' took 0.00s
+[2021.12.04-03.56.38:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Collections/' took 0.00s
+[2021.12.04-03.56.38:845][  0]LogOcInput: OculusInput pre-init called
+[2021.12.04-03.56.38:859][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.12.04-03.56.38:859][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.12.04-03.56.38:926][  0]LogEngine: Initializing Engine...
+[2021.12.04-03.56.38:927][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.04-03.56.38:927][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.04-03.56.38:929][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.04-03.56.39:101][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.04-03.56.39:117][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.04-03.56.39:128][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.04-03.56.39:134][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.04-03.56.39:134][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.04-03.56.39:135][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-03.56.39:135][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-03.56.39:135][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-03.56.39:135][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-03.56.39:135][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-03.56.39:135][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-03.56.39:135][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-03.56.39:135][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-03.56.39:135][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-03.56.39:135][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-03.56.39:168][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-03.56.39:168][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-03.56.39:340][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.12.04-03.56.39:346][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-03.56.39:349][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-03.56.39:349][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-03.56.39:350][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-03.56.39:350][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-03.56.39:351][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-03.56.39:352][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-03.56.39:352][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-03.56.39:352][  0]LogInit: FAudioDevice initialized.
+[2021.12.04-03.56.39:352][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.04-03.56.39:353][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.04-03.56.42:178][  0]LogDerivedDataCache: Saved boot cache 2.83s 86MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.04-03.56.42:178][  0]LogInit: Texture streaming: Enabled
+[2021.12.04-03.56.42:192][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.12.04-03.56.42:197][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.04-03.56.42:197][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.04-03.56.42:246][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.04-03.56.42:369][  0]LogInit: Transaction tracking system initialized
+[2021.12.04-03.56.42:424][  0]BlueprintLog: New page: Editor Load
+[2021.12.04-03.56.42:513][  0]LocalizationService: Localization service is disabled
+[2021.12.04-03.56.42:548][  0]TimingProfiler: Initialize
+[2021.12.04-03.56.42:549][  0]TimingProfiler: OnSessionChanged
+[2021.12.04-03.56.42:549][  0]LoadingProfiler: Initialize
+[2021.12.04-03.56.42:549][  0]LoadingProfiler: OnSessionChanged
+[2021.12.04-03.56.42:549][  0]NetworkingProfiler: Initialize
+[2021.12.04-03.56.42:549][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.04-03.56.42:549][  0]MemoryProfiler: Initialize
+[2021.12.04-03.56.42:549][  0]MemoryProfiler: OnSessionChanged
+[2021.12.04-03.56.42:832][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.04-03.56.42:832][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.04-03.56.43:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/' took 0.02s
+[2021.12.04-03.56.44:200][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.04-03.56.44:205][  0]SourceControl: Source control is disabled
+[2021.12.04-03.56.44:205][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.067
+[2021.12.04-03.56.44:205][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.04-03.56.44:205][  0]LightingResults: New page: Lighting Build
+[2021.12.04-03.56.44:207][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-03.56.44:207][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-03.56.44:207][  0]MapCheck: New page: Map Check
+[2021.12.04-03.56.44:207][  0]LightingResults: New page: Lighting Build
+[2021.12.04-03.56.44:224][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.12.04-03.56.45:829][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.12.04-03.56.46:027][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.12.04-03.56.46:082][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.12.04-03.56.46:084][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.12.04-03.56.46:097][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.04-03.56.46:110][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.12.04-03.56.46:110][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.04-03.56.46:110][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,203ms to complete.
+[2021.12.04-03.56.46:111][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.905
+[2021.12.04-03.56.46:112][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.974
+[2021.12.04-03.56.46:370][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-03.56.46:377][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-03.56.46:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-03.56.46:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-03.56.46:423][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3658 classes and 871 folders.
+[2021.12.04-03.56.46:564][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.04-03.56.46:806][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.04-03.56.46:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.46:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.04-03.56.46:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.12.04-03.56.47:057][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.04-03.56.47:057][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:057][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.04-03.56.47:057][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.12.04-03.56.47:107][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.04-03.56.47:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.04-03.56.47:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.12.04-03.56.47:183][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-03.56.47:183][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:183][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.04-03.56.47:183][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.12.04-03.56.47:202][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.04-03.56.47:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.04-03.56.47:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.12.04-03.56.47:204][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.04-03.56.47:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.04-03.56.47:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.12.04-03.56.47:205][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.04-03.56.47:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.04-03.56.47:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.12.04-03.56.47:223][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.04-03.56.47:223][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:223][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.04-03.56.47:223][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.04-03.56.47:250][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.04-03.56.47:250][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:250][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.04-03.56.47:250][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.04-03.56.47:284][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.04-03.56.47:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.04-03.56.47:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.12.04-03.56.47:385][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.04-03.56.47:385][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:385][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.04-03.56.47:385][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.12.04-03.56.47:454][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.04-03.56.47:454][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.04-03.56.47:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.12.04-03.56.47:466][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-03.56.47:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.04-03.56.47:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.12.04-03.56.47:467][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.04-03.56.47:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.04-03.56.47:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.12.04-03.56.47:469][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.04-03.56.47:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.04-03.56.47:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.12.04-03.56.47:471][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.04-03.56.47:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.04-03.56.47:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.12.04-03.56.47:472][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.04-03.56.47:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.04-03.56.47:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.12.04-03.56.47:475][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.04-03.56.47:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.04-03.56.47:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.12.04-03.56.47:475][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-03.56.47:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.04-03.56.47:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.12.04-03.56.47:495][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-03.56.47:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.04-03.56.47:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.12.04-03.56.47:507][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.04-03.56.47:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.04-03.56.47:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.12.04-03.56.47:518][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.04-03.56.47:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.04-03.56.47:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.12.04-03.56.47:521][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.04-03.56.47:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.04-03.56.47:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2021.12.04-03.56.47:523][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.04-03.56.47:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.04-03.56.47:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.12.04-03.56.47:555][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-03.56.47:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.04-03.56.47:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.12.04-03.56.47:557][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.04-03.56.47:557][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-03.56.47:557][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.04-03.56.47:557][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.12.04-03.56.49:664][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.04-03.56.49:665][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.12.04-03.56.49:732][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.04-03.56.49:737][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.04-03.56.49:832][  0]LogSlate: Took 0.087828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.04-03.56.49:950][  0]LogRenderer: Reallocating scene render targets to support 828x416 Format 10 NumSamples 1 (Frame:1).
+[2021.12.04-03.56.50:124][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.04-03.56.50:124][  0]LogLoad: (Engine Initialization) Total time: 20.99 seconds
+[2021.12.04-03.56.50:124][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.04-03.56.50:124][  0]LogInit: First time updating LLM stats...
+[2021.12.04-03.56.50:189][  0]LogAssetRegistry: Asset discovery search completed in 14.6920 seconds
+[2021.12.04-03.56.50:192][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.12.04-03.56.50:250][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.04-03.56.50:665][  2]LogSlate: Took 0.018499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.04-03.57.23:422][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.12.04-03.57.23:424][856]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.04-03.57.23:429][856]LogSlate: Took 0.000597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.04-03.57.23:457][856]LightingResults: New page: Lighting Build
+[2021.12.04-03.57.23:457][856]LoadErrors: New page: Loading map: Land.umap
+[2021.12.04-03.57.23:571][856]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-03.57.23:593][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-03.57.23:658][856]MapCheck: New page: Map Check
+[2021.12.04-03.57.23:658][856]LightingResults: New page: Lighting Build
+[2021.12.04-03.57.23:665][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-03.57.23:684][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.12.04-03.57.30:263][856]LogAudio: Display: Audio Device (ID: 1) registered with world 'Land'.
+[2021.12.04-03.57.30:264][856]LogAIModule: Creating AISystem for world Land
+[2021.12.04-03.57.37:655][856]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.04-03.57.37:884][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.12.04-03.57.38:031][856]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.04-03.57.38:032][856]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,28ms to complete.
+[2021.12.04-03.57.38:032][856]LogFileHelpers: Loading map 'Land' took 14.609
+[2021.12.04-03.57.38:129][856]LogSlate: Window 'Open Level' being destroyed
+[2021.12.04-04.01.59:086][371]MapCheck: New page: Map Check
+[2021.12.04-04.01.59:389][371]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.04-04.01.59:410][371]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.04-04.01.59:670][371]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=false
+[2021.12.04-04.01.59:750][371]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.04-04.01.59:750][371]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.12.04-04.01.59:750][371]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.04-04.01.59:763][371]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.12.04-04.01.59:932][371]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.17s
+[2021.12.04-04.01.59:947][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.12.04-04.02.00:071][371]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.04-04.02.00:153][371]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.04-04.02.00:155][371]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.04-04.02.00:157][371]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.04-04.02.00:157][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.04-04.02.00:157][371]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.12.04-04.02.00:157][371]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.04-04.02.00:221][371]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.04-04.02.04:278][371]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.12.04-04.02.04:278][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.04-04.02.04:278][371]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.12.04-04.02.04:278][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.12.04-04.02.04:278][371]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.12.04-04.02.04:278][371]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.04-04.02.04:278][371]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.04-04.02.04:278][371]TextureStreamingBuild: Display: Compiling optional shaders took 4.271 seconds.
+[2021.12.04-04.02.04:453][371]LogLevel: Display: Export Material TexCoord Scales took 0.174 seconds.
+[2021.12.04-04.02.04:470][371]TextureStreamingBuild: Display: Build Texture Streaming took 0.017 seconds.
+[2021.12.04-04.02.04:480][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.12.04-04.02.04:570][371]LightingResults: New page: Lighting Build - 4 дек. 2021 г., 22:02:04
+[2021.12.04-04.02.05:184][371]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.04-04.02.05:529][371]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.04-04.02.05:963][371]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.04-04.02.11:038][371]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2021.12.04-04.02.11:375][371]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:8008
+
+Server stack trace: 
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   в System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   в System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   в System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   в System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   в System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   в NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) в D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:строка 2811
+[2021.12.04-04.02.17:563][371]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.04-04.02.17:563][371]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400104
+[2021.12.04-04.02.25:701][371]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.12.04-04.02.25:763][371]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.04-04.02.25:763][371]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.04-04.02.25:763][371]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.04-04.02.25:763][371]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.04-04.02.25:763][371]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.04-04.02.27:047][371]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.04-04.02.27:048][371]MapCheck: New page: Land - 4 дек. 2021 г., 22:02:27
+[2021.12.04-04.02.27:048][371]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.12.04-04.02.27:165][371]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 117,779ms to complete.
+[2021.12.04-04.02.27:225][371]LogEditorBuildUtils: Build time 0:27
+[2021.12.04-04.02.27:994][371]LogSlate: Took 0.022122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.04-04.02.28:847][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.12.04-04.03.38:163][390]Job is a success!
+[2021.12.04-04.03.38:761][391]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.332s
+[2021.12.04-04.03.38:761][391]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.12.04-04.03.38:787][391]LogVolumetricLightmapImport:      BrickData (all levels) 4.5Mb
+[2021.12.04-04.03.38:788][391]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.04-04.03.38:788][391]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2021.12.04-04.03.38:788][391]LogVolumetricLightmapImport:          1: 7.8% covering 14.6% of volume
+[2021.12.04-04.03.38:788][391]LogVolumetricLightmapImport:          2: 91.4% covering 2.7% of volume
+[2021.12.04-04.03.38:788][391]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.04-04.03.38:788][391]LogVolumetricLightmapImport:          Land 			 964 bricks 	 100.0% (Persistent Level)
+[2021.12.04-04.03.39:403][391]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.12.04-04.03.39:403][391]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.12.04-04.03.40:071][391]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2021.12.04-04.03.40:072][391]Lightmass on LAPTOP-U73B9QT1: 1:00 min total, 6.85 sec importing, 351 ms setup, 6.02 sec photons, 46.5 sec processing, 0 ms extra exporting [65/65 mappings]. Threads: 3:05 min total, 14.6 sec processing.
+[2021.12.04-04.03.40:088][391]LogStaticLightingSystem: Land_BuiltData storing lightmap data for 65 meshes in 1 LightmapResourceClusters (65.0 Meshes per cluster).
+[2021.12.04-04.03.40:148][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.12.04-04.03.40:203][391]LogStaticLightingSystem: Illumination: 1:35 min (488 ms encoding lightmaps, 156 ms encoding shadowmaps)
+[2021.12.04-04.03.40:209][391]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.12.04-04.03.40:209][391]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.12.04-04.03.40:566][391]DumpUnbuiltLightIteractions
+[2021.12.04-04.03.40:566][391]Lights with unbuilt interactions: 0
+[2021.12.04-04.03.40:566][391]
+[2021.12.04-04.03.40:566][391]Primitives with unbuilt interactions: 0
+[2021.12.04-04.03.40:810][391]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.12.04-04.03.40:928][392]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.04-04.03.40:928][392]MapCheck: New page: Land - 4 дек. 2021 г., 22:03:40
+[2021.12.04-04.03.40:928][392]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,518ms to complete.
+[2021.12.04-04.05.19:112][267]LogSlate: Window 'Message Log' being destroyed
+[2021.12.04-04.05.19:117][267]LogSlate: Window 'Message Log' being destroyed
+[2021.12.04-04.05.26:832][713]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-04.05.26:914][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-04.05.26:925][713]PIE: New page: PIE session: Land (4 дек. 2021 г., 22:05:26)
+[2021.12.04-04.05.26:942][713]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.04-04.05.26:949][713]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.04-04.05.27:045][713]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Land
+[2021.12.04-04.05.27:170][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124336s)
+[2021.12.04-04.05.27:188][713]LogAIModule: Creating AISystem for world Land
+[2021.12.04-04.05.27:189][713]LogPlayLevel: PIE: World Init took: (0.019292s)
+[2021.12.04-04.05.27:205][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Land.Land to /Game/UEDPIE_0_Land.Land (0.159745s)
+[2021.12.04-04.05.27:227][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.12.04-04.05.27:279][713]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.04-04.05.27:279][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-04.05.27:279][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-04.05.27:279][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-04.05.27:279][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-04.05.27:279][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-04.05.27:279][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-04.05.27:279][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-04.05.27:279][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-04.05.27:279][713]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-04.05.27:279][713]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-04.05.27:283][713]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-04.05.27:283][713]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-04.05.27:306][713]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.12.04-04.05.27:307][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-04.05.27:307][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-04.05.27:307][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-04.05.27:307][713]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-04.05.27:307][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-04.05.27:307][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-04.05.27:342][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-04.05.27:343][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-04.05.27:343][713]LogInit: FAudioDevice initialized.
+[2021.12.04-04.05.27:343][713]LogAudio: Display: Audio Device (ID: 2) registered with world 'Land'.
+[2021.12.04-04.05.27:405][713]LogLoad: Game class is 'GameModeBase'
+[2021.12.04-04.05.27:682][713]LogWorld: Bringing World /Game/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.12.04-13.05.27
+[2021.12.04-04.05.27:969][713]LogWorld: Bringing up level for play took: 0.315888
+[2021.12.04-04.05.28:059][713]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.12.04-04.05.28:239][713]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.12.04-04.05.28:463][713]PIE: Server logged in
+[2021.12.04-04.05.28:479][713]PIE: Play in editor total start time 1,636 seconds.
+[2021.12.04-04.05.36:517][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-04.05.36:517][153]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Land
+[2021.12.04-04.05.36:529][153]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-04.05.36:529][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-04.05.36:573][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-04.05.36:585][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-04.05.36:598][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-04.05.36:663][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-04.05.36:666][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-04.05.36:705][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-04.05.36:723][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.12.04-04.05.36:765][154]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.12.04-04.06.20:763][767]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.04-04.07.22:377][739]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Animals/ABP_Turtle.ABP_Turtle
+[2021.12.04-04.07.22:638][739]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2021.12.04-04.07.23:646][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-04.07.23:935][739]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.12.04-04.07.25:545][739]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.12.04-04.07.25:546][739]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.12.04-04.07.25:546][739]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.12.04-04.07.26:489][739]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.12.04-04.07.26:489][739]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.12.04-04.07.26:493][739]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.12.04-04.07.26:493][739]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.12.04-04.07.26:695][739]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.12.04-04.07.26:731][739]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.04-04.07.26:731][739]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.04-04.07.26:733][739]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.12.04-04.07.26:738][739]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.04-04.07.26:738][739]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.04-04.07.27:997][739]LogBlueprintEditor: Perf: 3.6 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.12.04-04.07.27:997][739]LogBlueprintEditor: Perf: 3.3 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.12.04-04.07.28:658][739]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.12.04-04.07.34:253][739]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.04-04.07.35:444][740]LogSlate: Took 0.045121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.04-04.07.46:562][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.12.04-04.07.46:647][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Land" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Autosaves/Game/Land_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.04-04.07.47:223][ 73]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Land_Auto1D222D1344CC096F836619A91DCCDC5AE.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Autosaves/Game/Land_Auto1.umap'
+[2021.12.04-04.07.47:274][ 73]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Land' took 0.778
+[2021.12.04-04.07.47:274][ 73]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.778
+[2021.12.04-04.09.58:898][283]LogSlate: Window 'ABP_Turtle' being destroyed
+[2021.12.04-04.10.05:552][555]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Animals/BPAI_Turtle.BPAI_Turtle
+[2021.12.04-04.10.17:944][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Animals/BPCH_Turtle.BPCH_Turtle
+[2021.12.04-04.17.11:281][357]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.04-04.17.11:281][357]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.04-04.18.02:655][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.12.04-04.18.02:657][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Land' took 0.074
+[2021.12.04-04.18.02:673][713]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animals/BPAI_Turtle] ([1] browsable assets)...
+[2021.12.04-04.18.02:673][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animals/BPAI_Turtle]
+[2021.12.04-04.18.02:729][713]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BPAI_Turtle_Auto2D6D790D140CE395446379899C96F9BE4.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Autosaves/Game/Character/Animals/BPAI_Turtle_Auto2.uasset'
+[2021.12.04-04.18.02:851][713]LogFileHelpers: Auto-saving content packages took 0.194
+[2021.12.04-04.26.48:376][432]LogSlate: Window 'Delete Variable' being destroyed
+[2021.12.04-04.28.39:716][989]LogEditorTransaction: Undo Add Node
+[2021.12.04-04.28.39:934][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-04.31.08:115][253]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2021.12.04-04.31.08:117][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Land' took 0.055
+[2021.12.04-04.31.08:118][253]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animals/BPAI_Turtle] ([1] browsable assets)...
+[2021.12.04-04.31.08:118][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animals/BPAI_Turtle]
+[2021.12.04-04.31.08:135][253]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BPAI_Turtle_Auto328185890493B67D29AA14FA97D22ED56.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Autosaves/Game/Character/Animals/BPAI_Turtle_Auto3.uasset'
+[2021.12.04-04.31.08:138][253]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.12.04-04.42.03:375][633]BlueprintLog: New page: Compile BPAI_Turtle
+[2021.12.04-04.42.03:548][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.12.04-04.42.05:908][684]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.12.04-04.42.05:909][684]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Land' took 0.067
+[2021.12.04-04.42.05:909][684]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animals/BPAI_Turtle] ([1] browsable assets)...
+[2021.12.04-04.42.05:909][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animals/BPAI_Turtle]
+[2021.12.04-04.42.05:931][684]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BPAI_Turtle_Auto4A77923294A969DD03B4117904F4D3AD5.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Autosaves/Game/Character/Animals/BPAI_Turtle_Auto4.uasset'
+[2021.12.04-04.42.05:933][684]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.12.04-04.43.45:281][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animals/BPAI_Turtle" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPAI_Turtle.uasset" SILENT=true
+[2021.12.04-04.43.45:298][122]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BPAI_TurtleC0E6DEB04B5F524F833FB69C399C8BE0.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPAI_Turtle.uasset'
+[2021.12.04-04.43.45:367][122]AssetCheck: New page: Asset Save: BPAI_Turtle
+[2021.12.04-04.43.45:367][122]LogContentValidation: Display: Validating Blueprint /Game/Character/Animals/BPAI_Turtle.BPAI_Turtle
+[2021.12.04-04.44.18:184][785]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.12.04-04.44.31:189][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animals/BPCH_Turtle" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPCH_Turtle.uasset" SILENT=true
+[2021.12.04-04.44.31:275][322]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BPCH_TurtleB43DDBC4470CED6464A102A02F85C080.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPCH_Turtle.uasset'
+[2021.12.04-04.44.31:347][322]AssetCheck: New page: Asset Save: BPCH_Turtle
+[2021.12.04-04.44.31:347][322]LogContentValidation: Display: Validating Blueprint /Game/Character/Animals/BPCH_Turtle.BPCH_Turtle
+[2021.12.04-04.44.32:842][406]BlueprintLog: New page: Compile BPCH_Turtle
+[2021.12.04-04.44.32:939][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.12.04-04.45.02:324][853]BlueprintLog: New page: Compile BPAI_Turtle
+[2021.12.04-04.45.02:400][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.12.04-04.47.10:027][173]BlueprintLog: New page: Compile BPAI_Turtle
+[2021.12.04-04.47.10:128][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.12.04-04.47.11:347][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animals/BPAI_Turtle" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPAI_Turtle.uasset" SILENT=true
+[2021.12.04-04.47.11:365][223]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BPAI_TurtleA525204E4F4000A10DF8EF8E4FDE6EB1.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPAI_Turtle.uasset'
+[2021.12.04-04.47.11:439][223]AssetCheck: New page: Asset Save: BPAI_Turtle
+[2021.12.04-04.47.11:440][223]LogContentValidation: Display: Validating Blueprint /Game/Character/Animals/BPAI_Turtle.BPAI_Turtle
+[2021.12.04-04.48.23:724][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Land" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.04-04.48.23:779][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.12.04-04.48.23:956][736]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Land47DB21EF49A45EA810E9DEA6184034C3.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land.umap'
+[2021.12.04-04.48.24:060][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Land_BuiltData" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land_BuiltData.uasset" SILENT=true
+[2021.12.04-04.48.24:174][736]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Land_BuiltData9BCDC16242A37574E91C048F7E9D2978.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land_BuiltData.uasset'
+[2021.12.04-04.48.24:235][736]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.04-04.48.24:235][736]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Land_BuiltData.Land_BuiltData
+[2021.12.04-04.48.24:235][736]LogContentValidation: Display: Validating World /Game/Land.Land
+[2021.12.04-04.48.37:040][ 66]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Character/Animals/Turtle/Animations/BS1D_Turtle.BS1D_Turtle
+[2021.12.04-04.48.37:079][ 66]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-04.48.38:349][ 66]LogRenderer: Reallocating scene render targets to support 840x416 Format 10 NumSamples 1 (Frame:1).
+[2021.12.04-04.48.38:349][ 66]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.12.04-04.50.10:202][266]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-04.50.10:202][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-04.50.10:295][266]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-04.50.10:295][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-04.50.11:003][266]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-04.50.11:003][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-04.50.14:354][381]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.12.04-04.50.18:234][381]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.04-04.50.18:583][381]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Character/Animals/ABP_Turtle.ABP_Turtle
+[2021.12.04-04.50.41:661][381]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2021.12.04-04.50.41:745][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.12.04-04.50.41:785][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.12.04-04.51.39:887][383]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.04-04.51.49:079][383]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.12.04-04.51.49:194][383]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.12.04-04.51.49:220][383]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.12.04-04.51.57:055][845]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Turtle
+[2021.12.04-04.51.57:120][845]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.12.04-04.51.59:815][944]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Animals/ABP_Turtle.ABP_Turtle
+[2021.12.04-04.51.59:828][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-04.52.48:711][982]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.12.04-04.53.42:033][437]BlueprintLog: New page: Compile ABP_Turtle
+[2021.12.04-04.53.42:055][437]LogBlueprint: Warning: [AssetLog] /Game/Character/Animals/ABP_Turtle.ABP_Turtle (no disk path found): [Compiler] Entry node  Locomotion  is not connected to state
+[2021.12.04-04.53.42:055][437]LogBlueprint: Warning: [AssetLog] /Game/Character/Animals/ABP_Turtle.ABP_Turtle (no disk path found): [Compiler] There was no entry state connection in  Locomotion
+[2021.12.04-04.53.42:187][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.12.04-04.54.31:724][688]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.12.04-04.55.09:390][574]BlueprintLog: New page: Compile ABP_Turtle
+[2021.12.04-04.55.09:523][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.12.04-04.55.20:729][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animals/ABP_Turtle" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/ABP_Turtle.uasset" SILENT=true
+[2021.12.04-04.55.20:759][891]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/ABP_TurtleD9E4DA234F0CD5F679851E9A69B1D360.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/ABP_Turtle.uasset'
+[2021.12.04-04.55.21:154][891]AssetCheck: New page: Asset Save: ABP_Turtle
+[2021.12.04-04.55.21:155][891]LogContentValidation: Display: Validating AnimBlueprint /Game/Character/Animals/ABP_Turtle.ABP_Turtle
+[2021.12.04-04.58.35:617][740]BlueprintLog: New page: Compile ABP_Turtle
+[2021.12.04-04.58.35:733][740]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.12.04-04.59.00:768][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.12.04-04.59.00:769][865]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Land' took 0.072
+[2021.12.04-04.59.00:769][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animals/ABP_Turtle] ([1] browsable assets)...
+[2021.12.04-04.59.00:812][865]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Animals/ABP_Turtle.ABP_Turtle]
+[2021.12.04-04.59.00:812][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animals/ABP_Turtle]
+[2021.12.04-04.59.00:837][865]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/ABP_Turtle_Auto58EE9908243B80A6F690635A9F554BBA9.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Autosaves/Game/Character/Animals/ABP_Turtle_Auto5.uasset'
+[2021.12.04-04.59.00:840][865]LogFileHelpers: Auto-saving content packages took 0.071
+[2021.12.04-04.59.13:218][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animals/ABP_Turtle" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/ABP_Turtle.uasset" SILENT=true
+[2021.12.04-04.59.13:245][ 93]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/ABP_Turtle1FABCF3244DB129D32EC71B79E633209.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/ABP_Turtle.uasset'
+[2021.12.04-04.59.13:417][ 93]AssetCheck: New page: Asset Save: ABP_Turtle
+[2021.12.04-04.59.13:417][ 93]LogContentValidation: Display: Validating AnimBlueprint /Game/Character/Animals/ABP_Turtle.ABP_Turtle
+[2021.12.04-05.01.41:918][707]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Animals/Turtle/Animations/ANIM_Crocodile_IdleRest3.ANIM_Crocodile_IdleRest3
+[2021.12.04-05.02.08:313][444]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.02.08:313][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.02.08:390][444]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.02.08:390][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.02.08:588][444]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.02.08:589][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.02.12:916][595]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Animals/Turtle/Animations/ANIM_Crocodile_Idle.ANIM_Crocodile_Idle
+[2021.12.04-05.02.12:924][595]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-05.02.13:564][595]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.12.04-05.02.38:578][214]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.02.38:578][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.02.38:652][214]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.02.38:652][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.02.38:729][214]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.02.38:729][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.02.42:803][388]LogContentBrowser: Deferred new asset file creation: ANIM_Crocodile_Idle_Montage
+[2021.12.04-05.02.42:959][388]LogContentBrowser: Creating deferred item: ANIM_Crocodile_Idle_Montage
+[2021.12.04-05.02.45:228][472]LogContentBrowser: Attempting asset rename: ANIM_Crocodile_Idle_Montage -> ANIM_Crocodile_Idle_Montage
+[2021.12.04-05.02.45:245][472]LogContentBrowser: End creating deferred item ANIM_Crocodile_Idle_Montage
+[2021.12.04-05.03.09:216][936]LogContentBrowser: Attempting asset rename: ANIM_Crocodile_Idle_Montage -> AM_Idle
+[2021.12.04-05.03.09:375][936]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/AM_IdleA4E72AF641CC66CD4DF044B7B9C1BBF6.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/Turtle/Animations/AM_Idle.uasset'
+[2021.12.04-05.03.09:637][936]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2021.12.04-05.03.09:804][936]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.12.04-05.03.09:906][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.12.04-05.03.10:018][936]AssetCheck: New page: Asset Save: AM_Idle
+[2021.12.04-05.03.10:018][936]LogContentValidation: Display: Validating AnimMontage /Game/Character/Animals/Turtle/Animations/AM_Idle.AM_Idle
+[2021.12.04-05.04.34:015][872]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.12.04-05.04.36:516][872]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.12.04-05.04.37:017][872]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.12.04-05.04.42:017][872]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
+[2021.12.04-05.04.47:018][872]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s) (00000000)
+[2021.12.04-05.04.52:018][872]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s) (00000000)
+[2021.12.04-05.04.57:017][872]LogD3D11RHI: GetQueryData is taking a very long time (20.0 s) (00000000)
+[2021.12.04-05.06.41:448][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animals/BPCH_Turtle" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPCH_Turtle.uasset" SILENT=true
+[2021.12.04-05.06.41:460][633]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BPCH_Turtle8AB204A44EC1F47E98BB348267B4D31C.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPCH_Turtle.uasset'
+[2021.12.04-05.06.41:748][633]AssetCheck: New page: Asset Save: BPCH_Turtle
+[2021.12.04-05.06.41:748][633]LogContentValidation: Display: Validating Blueprint /Game/Character/Animals/BPCH_Turtle.BPCH_Turtle
+[2021.12.04-05.06.42:941][699]BlueprintLog: New page: Compile BPCH_Turtle
+[2021.12.04-05.06.43:081][699]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2021.12.04-05.09.07:358][192]BlueprintLog: New page: Compile BPAI_Turtle
+[2021.12.04-05.09.07:401][192]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\anton\Fantastic\Task2\Turtles\Content\Character\Animals\BPAI_Turtle.uasset: [Compiler] The property associated with  Ready For Action  could not be found in '/Game/Character/Animals/BPAI_Turtle.BPAI_Turtle_C'
+[2021.12.04-05.09.07:532][192]LogUObjectHash: Compacting FUObjectHashTables data took  10.32ms
+[2021.12.04-05.09.14:984][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animals/BPCH_Turtle" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPCH_Turtle.uasset" SILENT=true
+[2021.12.04-05.09.15:006][604]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BPCH_TurtleF08F784E4FADECAC41E9DF90684C2177.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPCH_Turtle.uasset'
+[2021.12.04-05.09.15:227][604]AssetCheck: New page: Asset Save: BPCH_Turtle
+[2021.12.04-05.09.15:227][604]LogContentValidation: Display: Validating Blueprint /Game/Character/Animals/BPCH_Turtle.BPCH_Turtle
+[2021.12.04-05.09.16:174][657]BlueprintLog: New page: Compile BPCH_Turtle
+[2021.12.04-05.09.16:298][657]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2021.12.04-05.09.19:245][805]BlueprintLog: New page: Compile BPAI_Turtle
+[2021.12.04-05.09.19:362][805]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.12.04-05.09.22:047][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animals/BPAI_Turtle" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPAI_Turtle.uasset" SILENT=true
+[2021.12.04-05.09.22:070][938]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BPAI_Turtle4AEA5F644A55248F2A92A0BD9034AEB8.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/BPAI_Turtle.uasset'
+[2021.12.04-05.09.22:286][938]AssetCheck: New page: Asset Save: BPAI_Turtle
+[2021.12.04-05.09.22:286][938]LogContentValidation: Display: Validating Blueprint /Game/Character/Animals/BPAI_Turtle.BPAI_Turtle
+[2021.12.04-05.09.40:530][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Land" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.04-05.09.40:617][185]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2021.12.04-05.09.40:799][185]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Land3FDA4F694BD4218A0BB66582635C8F5D.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land.umap'
+[2021.12.04-05.09.40:815][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Land_BuiltData" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land_BuiltData.uasset" SILENT=true
+[2021.12.04-05.09.40:915][185]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Land_BuiltData95CEF8564AEE5F62216DA1A794768571.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land_BuiltData.uasset'
+[2021.12.04-05.09.41:375][185]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.04-05.09.41:375][185]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Land_BuiltData.Land_BuiltData
+[2021.12.04-05.09.41:375][185]LogContentValidation: Display: Validating World /Game/Land.Land
+[2021.12.04-05.10.19:393][531]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.04-05.10.37:202][413]Cmd: DELETE
+[2021.12.04-05.10.37:266][413]Cmd: ACTOR DELETE
+[2021.12.04-05.10.38:072][413]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2021.12.04-05.10.38:143][413]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2021.12.04-05.10.38:284][413]LogEditorActor: Deleted 1 Actors (0.303 secs)
+[2021.12.04-05.10.59:501][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Land" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.04-05.10.59:579][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.12.04-05.10.59:787][765]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Land1B8D54D04EF52DA697F9C69EE578E642.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land.umap'
+[2021.12.04-05.10.59:797][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Land_BuiltData" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land_BuiltData.uasset" SILENT=true
+[2021.12.04-05.10.59:881][765]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/Land_BuiltDataFA2B521D4460F44033577D809E96EA50.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Land_BuiltData.uasset'
+[2021.12.04-05.11.00:150][765]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.04-05.11.00:150][765]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Land_BuiltData.Land_BuiltData
+[2021.12.04-05.11.00:150][765]LogContentValidation: Display: Validating World /Game/Land.Land
+[2021.12.04-05.11.02:989][887]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-05.11.03:368][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-05.11.03:433][887]PIE: New page: PIE session: Land (4 дек. 2021 г., 23:11:03)
+[2021.12.04-05.11.03:648][887]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Land
+[2021.12.04-05.11.04:645][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.991386s)
+[2021.12.04-05.11.04:875][887]LogAIModule: Creating AISystem for world Land
+[2021.12.04-05.11.05:001][887]LogPlayLevel: PIE: World Init took: (0.355887s)
+[2021.12.04-05.11.05:001][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Land.Land to /Game/UEDPIE_0_Land.Land (1.372156s)
+[2021.12.04-05.11.05:148][887]LogUObjectHash: Compacting FUObjectHashTables data took  11.96ms
+[2021.12.04-05.11.05:207][887]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.04-05.11.05:311][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-05.11.05:311][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-05.11.05:311][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-05.11.05:311][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-05.11.05:311][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-05.11.05:311][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-05.11.05:311][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-05.11.05:333][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-05.11.05:375][887]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-05.11.05:375][887]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-05.11.05:544][887]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-05.11.05:544][887]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-05.11.05:687][887]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.12.04-05.11.05:687][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-05.11.05:688][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-05.11.05:688][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-05.11.05:724][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-05.11.05:724][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-05.11.05:724][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-05.11.05:979][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-05.11.05:979][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-05.11.05:979][887]LogInit: FAudioDevice initialized.
+[2021.12.04-05.11.05:983][887]LogAudio: Display: Audio Device (ID: 3) registered with world 'Land'.
+[2021.12.04-05.11.06:862][887]LogLoad: Game class is 'GameModeBase'
+[2021.12.04-05.11.07:164][887]LogWorld: Bringing World /Game/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.12.04-14.11.07
+[2021.12.04-05.11.07:678][887]LogWorld: Bringing up level for play took: 0.801075
+[2021.12.04-05.11.07:938][887]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.12.04-05.11.08:647][887]PIE: Server logged in
+[2021.12.04-05.11.08:649][887]PIE: Play in editor total start time 5,468 seconds.
+[2021.12.04-05.11.21:712][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.11.21:712][556]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Land
+[2021.12.04-05.11.21:857][556]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.11.21:885][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.11.22:067][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-05.11.22:103][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.11.22:180][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-05.11.22:194][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.11.22:197][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.11.22:324][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.11.22:604][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.12.04-05.11.22:659][557]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.12.04-05.11.34:714][170]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Character/Animals/Turtle/Animations/BS1D_Turtle.BS1D_Turtle
+[2021.12.04-05.11.34:720][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.04-05.11.35:249][170]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.12.04-05.12.20:004][429]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BS1D_TurtleBB7712194E5455BBCD0A69907D7AA84A.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/Turtle/Animations/BS1D_Turtle.uasset'
+[2021.12.04-05.12.20:253][429]AssetCheck: New page: Asset Save: BS1D_Turtle
+[2021.12.04-05.12.20:253][429]LogContentValidation: Display: Validating BlendSpace1D /Game/Character/Animals/Turtle/Animations/BS1D_Turtle.BS1D_Turtle
+[2021.12.04-05.12.22:284][533]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BS1D_Turtle506BE60342C68D62B5F775A1ED2CBBA6.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/Turtle/Animations/BS1D_Turtle.uasset'
+[2021.12.04-05.12.22:354][533]AssetCheck: New page: Asset Save: BS1D_Turtle
+[2021.12.04-05.12.22:355][533]LogContentValidation: Display: Validating BlendSpace1D /Game/Character/Animals/Turtle/Animations/BS1D_Turtle.BS1D_Turtle
+[2021.12.04-05.12.26:474][756]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-05.12.26:483][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-05.12.26:483][756]PIE: New page: PIE session: Land (4 дек. 2021 г., 23:12:26)
+[2021.12.04-05.12.26:484][756]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Land
+[2021.12.04-05.12.26:526][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042467s)
+[2021.12.04-05.12.26:533][756]LogAIModule: Creating AISystem for world Land
+[2021.12.04-05.12.26:533][756]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2021.12.04-05.12.26:534][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Land.Land to /Game/UEDPIE_0_Land.Land (0.050295s)
+[2021.12.04-05.12.26:625][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.12.04-05.12.26:630][756]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.04-05.12.26:630][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-05.12.26:630][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-05.12.26:630][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-05.12.26:630][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-05.12.26:630][756]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-05.12.26:631][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-05.12.26:631][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-05.12.26:631][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-05.12.26:631][756]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-05.12.26:631][756]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-05.12.26:635][756]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-05.12.26:635][756]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-05.12.26:665][756]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.12.04-05.12.26:667][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-05.12.26:667][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-05.12.26:667][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-05.12.26:668][756]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-05.12.26:669][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-05.12.26:669][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-05.12.26:695][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-05.12.26:695][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-05.12.26:695][756]LogInit: FAudioDevice initialized.
+[2021.12.04-05.12.26:695][756]LogAudio: Display: Audio Device (ID: 4) registered with world 'Land'.
+[2021.12.04-05.12.26:709][756]LogLoad: Game class is 'GameModeBase'
+[2021.12.04-05.12.26:713][756]LogWorld: Bringing World /Game/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.12.04-14.12.26
+[2021.12.04-05.12.26:714][756]LogWorld: Bringing up level for play took: 0.003960
+[2021.12.04-05.12.26:714][756]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.12.04-05.12.26:736][756]PIE: Server logged in
+[2021.12.04-05.12.26:737][756]PIE: Play in editor total start time 0,256 seconds.
+[2021.12.04-05.12.54:866][104]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BS1D_Turtle20A714524626B92FACD56DB8C87B18C0.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/Turtle/Animations/BS1D_Turtle.uasset'
+[2021.12.04-05.12.54:952][104]AssetCheck: New page: Asset Save: BS1D_Turtle
+[2021.12.04-05.12.54:952][104]LogContentValidation: Display: Validating BlendSpace1D /Game/Character/Animals/Turtle/Animations/BS1D_Turtle.BS1D_Turtle
+[2021.12.04-05.12.57:692][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.12.57:692][248]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Land
+[2021.12.04-05.12.57:692][248]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.12.57:693][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.12.57:706][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-05.12.57:732][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.12.57:815][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-05.12.57:815][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.12.57:817][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.12.57:887][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.12.57:896][248]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.12.04-05.12.57:967][249]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.12.04-05.12.59:200][307]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-05.12.59:208][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-05.12.59:209][307]PIE: New page: PIE session: Land (4 дек. 2021 г., 23:12:59)
+[2021.12.04-05.12.59:209][307]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Land
+[2021.12.04-05.12.59:250][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040853s)
+[2021.12.04-05.12.59:251][307]LogAIModule: Creating AISystem for world Land
+[2021.12.04-05.12.59:252][307]LogPlayLevel: PIE: World Init took: (0.001871s)
+[2021.12.04-05.12.59:252][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Land.Land to /Game/UEDPIE_0_Land.Land (0.042928s)
+[2021.12.04-05.12.59:311][307]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.12.04-05.12.59:324][307]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.04-05.12.59:324][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-05.12.59:324][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-05.12.59:324][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-05.12.59:324][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-05.12.59:324][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-05.12.59:324][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-05.12.59:324][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-05.12.59:325][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-05.12.59:325][307]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-05.12.59:325][307]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-05.12.59:328][307]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-05.12.59:328][307]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-05.12.59:350][307]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.12.04-05.12.59:351][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-05.12.59:351][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-05.12.59:351][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-05.12.59:430][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-05.12.59:430][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-05.12.59:430][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-05.12.59:458][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-05.12.59:458][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-05.12.59:458][307]LogInit: FAudioDevice initialized.
+[2021.12.04-05.12.59:458][307]LogAudio: Display: Audio Device (ID: 5) registered with world 'Land'.
+[2021.12.04-05.12.59:471][307]LogLoad: Game class is 'GameModeBase'
+[2021.12.04-05.12.59:479][307]LogWorld: Bringing World /Game/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.12.04-14.12.59
+[2021.12.04-05.12.59:481][307]LogWorld: Bringing up level for play took: 0.009174
+[2021.12.04-05.12.59:482][307]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.12.04-05.12.59:485][307]PIE: Server logged in
+[2021.12.04-05.12.59:486][307]PIE: Play in editor total start time 0,279 seconds.
+[2021.12.04-05.14.30:146][294]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/BS1D_TurtleFB6E37FB4EE0220F781DCD8EB77BA44E.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/Turtle/Animations/BS1D_Turtle.uasset'
+[2021.12.04-05.14.30:232][294]AssetCheck: New page: Asset Save: BS1D_Turtle
+[2021.12.04-05.14.30:232][294]LogContentValidation: Display: Validating BlendSpace1D /Game/Character/Animals/Turtle/Animations/BS1D_Turtle.BS1D_Turtle
+[2021.12.04-05.15.00:634][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.15.00:634][982]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Land
+[2021.12.04-05.15.00:634][982]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.15.00:635][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.15.00:643][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-05.15.00:680][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.15.00:773][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.15.00:773][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.15.00:776][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.15.00:821][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.12.04-05.15.00:890][983]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.12.04-05.16.20:683][405]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-05.16.20:693][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-05.16.20:693][405]PIE: New page: PIE session: Land (4 дек. 2021 г., 23:16:20)
+[2021.12.04-05.16.20:693][405]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Land
+[2021.12.04-05.16.20:728][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035184s)
+[2021.12.04-05.16.20:730][405]LogAIModule: Creating AISystem for world Land
+[2021.12.04-05.16.20:730][405]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2021.12.04-05.16.20:730][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Land.Land to /Game/UEDPIE_0_Land.Land (0.036892s)
+[2021.12.04-05.16.20:795][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.12.04-05.16.20:838][405]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.12.04-05.16.20:838][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-05.16.20:838][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-05.16.20:838][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-05.16.20:838][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-05.16.20:838][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-05.16.20:838][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-05.16.20:838][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-05.16.20:838][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-05.16.20:839][405]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-05.16.20:839][405]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-05.16.20:842][405]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-05.16.20:892][405]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-05.16.20:913][405]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.12.04-05.16.20:913][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-05.16.20:913][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-05.16.20:913][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-05.16.20:914][405]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-05.16.20:914][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-05.16.20:914][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-05.16.20:951][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-05.16.20:951][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-05.16.20:951][405]LogInit: FAudioDevice initialized.
+[2021.12.04-05.16.20:951][405]LogAudio: Display: Audio Device (ID: 6) registered with world 'Land'.
+[2021.12.04-05.16.20:962][405]LogLoad: Game class is 'GameModeBase'
+[2021.12.04-05.16.20:970][405]LogWorld: Bringing World /Game/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.12.04-14.16.20
+[2021.12.04-05.16.20:971][405]LogWorld: Bringing up level for play took: 0.007728
+[2021.12.04-05.16.20:971][405]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.12.04-05.16.20:977][405]PIE: Server logged in
+[2021.12.04-05.16.20:978][405]PIE: Play in editor total start time 0,286 seconds.
+[2021.12.04-05.16.32:222][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.16.32:222][974]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Land
+[2021.12.04-05.16.32:223][974]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.16.32:223][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.16.32:234][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-05.16.32:265][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.16.32:464][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.16.32:464][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.16.32:467][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.16.32:578][974]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.12.04-05.16.32:688][975]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.12.04-05.17.48:734][464]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-05.17.48:740][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-05.17.48:741][464]PIE: New page: PIE session: Land (4 дек. 2021 г., 23:17:48)
+[2021.12.04-05.17.48:741][464]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Land
+[2021.12.04-05.17.48:777][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036562s)
+[2021.12.04-05.17.48:778][464]LogAIModule: Creating AISystem for world Land
+[2021.12.04-05.17.48:779][464]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2021.12.04-05.17.48:779][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Land.Land to /Game/UEDPIE_0_Land.Land (0.038677s)
+[2021.12.04-05.17.48:849][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.12.04-05.17.48:853][464]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.12.04-05.17.48:853][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-05.17.48:853][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-05.17.48:853][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-05.17.48:853][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-05.17.48:853][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-05.17.48:853][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-05.17.48:853][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-05.17.48:853][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-05.17.48:854][464]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-05.17.48:854][464]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-05.17.48:860][464]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-05.17.48:860][464]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-05.17.48:892][464]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.12.04-05.17.48:893][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-05.17.48:893][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-05.17.48:893][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-05.17.48:893][464]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-05.17.48:894][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-05.17.48:894][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-05.17.48:926][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-05.17.48:926][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-05.17.48:926][464]LogInit: FAudioDevice initialized.
+[2021.12.04-05.17.48:926][464]LogAudio: Display: Audio Device (ID: 7) registered with world 'Land'.
+[2021.12.04-05.17.48:975][464]LogLoad: Game class is 'GameModeBase'
+[2021.12.04-05.17.48:981][464]LogWorld: Bringing World /Game/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.12.04-14.17.48
+[2021.12.04-05.17.48:982][464]LogWorld: Bringing up level for play took: 0.005598
+[2021.12.04-05.17.48:982][464]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.12.04-05.17.48:988][464]PIE: Server logged in
+[2021.12.04-05.17.48:991][464]PIE: Play in editor total start time 0,251 seconds.
+[2021.12.04-05.17.58:353][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.17.58:353][947]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Land
+[2021.12.04-05.17.58:353][947]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-05.17.58:355][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.17.58:370][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-05.17.58:412][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-05.17.58:474][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-05.17.58:474][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.17.58:475][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-05.17.58:515][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-05.17.58:521][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.12.04-05.17.58:569][948]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.12.04-05.18.03:659][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animals/ABP_Turtle" FILE="../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/ABP_Turtle.uasset" SILENT=true
+[2021.12.04-05.18.03:683][209]LogSavePackage: Moving '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Saved/ABP_TurtleF18A0A33481F1FC5175285A1F873230E.tmp' to '../../../../../../Users/user/Desktop/anton/Fantastic/Task2/Turtles/Content/Character/Animals/ABP_Turtle.uasset'
+[2021.12.04-05.18.03:791][209]AssetCheck: New page: Asset Save: ABP_Turtle
+[2021.12.04-05.18.03:792][209]LogContentValidation: Display: Validating AnimBlueprint /Game/Character/Animals/ABP_Turtle.ABP_Turtle
+[2021.12.04-05.18.27:056][384]LogEditorViewport: Clicking on Actor (LMB): BPCH_Turtle_C (BPCH_Turtle)
+[2021.12.04-05.18.36:782][583]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
+[2021.12.04-05.18.41:783][583]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s) (00000000)
+[2021.12.04-05.18.46:782][583]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s) (00000000)
+[2021.12.04-05.18.51:783][583]LogD3D11RHI: GetQueryData is taking a very long time (20.0 s) (00000000)
+[2021.12.04-05.18.56:781][583]LogD3D11RHI: GetQueryData is taking a very long time (25.0 s) (00000000)
+[2021.12.04-05.19.01:783][583]LogD3D11RHI: GetQueryData is taking a very long time (30.0 s) (00000000)
+[2021.12.04-05.19.01:783][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (30.0 s) (ErrorCode 00000001) (00000000)
+[2021.12.04-05.19.01:801][583]LogD3D11RHI: GPU has hung or crashed, checking status.
+[2021.12.04-05.19.02:226][583]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
